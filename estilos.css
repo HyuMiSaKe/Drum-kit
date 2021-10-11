@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+    background-color: #ccb771;
+  }
+  
+  h1 {
+    font-size: 60px;
+    color: #4e3d1c;
+    font-family: 'Indie Flower';
+    text-shadow: 3px 0 #ffffff;
+  
+  }
+
+  .espacio {
+    margin: 10% auto;
+  }
+
+  .tambor {
+    outline: none;
+    border: 3px solid #4d4324;
+    font-size: 5rem;
+    font-family: 'Indie Flower';
+    line-height: 2;
+    font-weight: 900;
+    color: #3d2b10;
+    text-shadow: 3px 0 #ebe5b7;
+    border-radius: 10px;
+    display: inline-block;
+    width: 100px;
+    height: 180px;
+    text-align: center;
+    margin: 8px;
+    background-color: rgb(129, 112, 65);
+  }
